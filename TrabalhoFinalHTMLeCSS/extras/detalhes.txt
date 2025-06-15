@@ -1,0 +1,22 @@
+cores: 
+#321908 
+#41210a 
+#603814
+#a67c52
+#c0ab8a;
+
+<h2>Um pouco sobre nós</h2>
+
+                </div>
+
+                <div>
+                    <h2>Conheça os metodos e tipos</h2>
+                </div>
+
+                <div>
+                    <h2>Preparando um bom café</h2>
+                </div>
+
+                <div>
+                    <h2>Contato e sugestões</h2>
+
