@@ -1,14 +1,28 @@
+:root{
+
+    --text-color: #2e7c37;
+    --backgoud: #1b221b;
+}
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: var(--text-color);
 }
+
 
 body{
     display: flex;
-    flex-direction: column;
+    background-color: var(--backgoud);
+    flex-wrap: nowrap;
+
 }
 
 .visualizar{
-    border: 1px black solid;
-}
+    border: 1px #fff solid;
+    display: flex;
+    flex-direction: column;
+    }
+
+
